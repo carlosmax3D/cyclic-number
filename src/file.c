@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include <limits.h>
 
+//tengo que hacer la tarea para mañana.
+// funcion para sumar matrices
 int main(){
     unsigned long long l = 0;
     unsigned long long spaces = 1;

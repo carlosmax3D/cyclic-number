@@ -7,6 +7,8 @@
 #define THP 8
 #define MTP 9 //142857
 
+//Hola de nuevo
+
 DWORD WINAPI worker(void* d) {
     unsigned long long* data = (unsigned long long*)d;
     unsigned long long maxLong = data[3];

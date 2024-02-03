@@ -4,7 +4,7 @@
 #include <limits.h>
 #include <string.h>
 
-#define MAXCHAR 200
+#define MAXCHAR 1000
 #define strcpy_s(x,y,z) strcpy(x,z)
 #define itoa(x,y,z) sprintf(y,"%llu",x)
 #define DIV 9
